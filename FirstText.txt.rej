@@ -1,6 +1,9 @@
 diff a/FirstText.txt b/FirstText.txt	(rejected hunks)
-@@ -0 +0 @@
--Hello how are you dude?
+@@ -1 +0,5 @@
+-Hello Vikas
 \ No newline at end of file
++<<<<<<< HEAD
 +Hello Vikas
-\ No newline at end of file
++=======
++Hello how are you?
++>>>>>>> 02d52d4cae0c990d7d3d483b00f4cdd0b5658549

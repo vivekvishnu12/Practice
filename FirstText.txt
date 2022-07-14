@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello Vikas
-=======
-Hello how are you?
->>>>>>> 02d52d4cae0c990d7d3d483b00f4cdd0b5658549
