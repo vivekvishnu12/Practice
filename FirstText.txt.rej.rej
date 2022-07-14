@@ -1,8 +1,0 @@
-diff a/FirstText.txt.rej b/FirstText.txt.rej	(rejected hunks)
-@@ -0,0 +1,6 @@
-+diff a/FirstText.txt b/FirstText.txt	(rejected hunks)
-+@@ -0 +0 @@
-+-Hello how are you dude?
-+\ No newline at end of file
-++Hello Vikas
-+\ No newline at end of file
